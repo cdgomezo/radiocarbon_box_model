@@ -1,7 +1,6 @@
 # Time-series of GhG emissions estimation for the learning of inverse modeling
 
-.. image:: https://zenodo.org/badge/351733532.svg
-   :target: https://zenodo.org/badge/latestdoi/351733532
+<a href="https://zenodo.org/badge/latestdoi/351733532"><img src="https://zenodo.org/badge/351733532.svg" alt="DOI"></a>
 
 ### Abstract
 
