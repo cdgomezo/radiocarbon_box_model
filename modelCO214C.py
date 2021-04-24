@@ -1,3 +1,7 @@
+#Author: Carlos Gómez-Ortiz
+#Affiliation: Department of Physical Geography and Ecosystem Science, Lund University
+#2021
+
 from numpy import *
 
 
