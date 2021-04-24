@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/351733532.svg)](https://zenodo.org/badge/latestdoi/351733532)
+[![DOI](https://zenodo.org/badge/351733532.svg)](https://zenodo.org/badge/latestdoi/351733532)]
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdgomezo/radiocarbon_box_model/]
 
 # Time-series of GhG emissions estimation for the learning of inverse modeling
